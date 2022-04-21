@@ -1,6 +1,9 @@
-Input 
-
-iiiiiiiii
-
-いいいいい
-いいい
+１Input 
+２
+３iiiiiiiii
+４
+５いいいいい
+６いいい
+７
+８
+９
